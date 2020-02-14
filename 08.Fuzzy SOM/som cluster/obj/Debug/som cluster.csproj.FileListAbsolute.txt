@@ -1,0 +1,106 @@
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\bin\Debug\som cluster.exe.config
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\bin\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\bin\Debug\som cluster.pdb
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.pdb
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som_cluster.Main.Lookup.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\bin\Debug\som cluster.exe.config
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\bin\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\bin\Debug\som cluster.pdb
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som_cluster.Main.Lookup.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.pdb
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\bin\Debug\som cluster.exe.config
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\bin\Debug\som cluster.exe
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\bin\Debug\som cluster.pdb
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som_cluster.Form1.resources
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som_cluster.Main.Lookup.resources
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som cluster.exe
+E:\GitHub\Som Cluster\Som-Cluster-master\som cluster\obj\Debug\som cluster.pdb
+E:\GitHub\Som Cluster\som cluster\bin\Debug\som cluster.exe.config
+E:\GitHub\Som Cluster\som cluster\bin\Debug\som cluster.exe
+E:\GitHub\Som Cluster\som cluster\bin\Debug\som cluster.pdb
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som cluster.exe
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som cluster.pdb
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som cluster.csproj.ResolveComReference.cache
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som_cluster.Main.ImageSegmentation.resources
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som_cluster.Main.Tree.resources
+E:\GitHub\Som Cluster\som cluster\obj\Debug\som_cluster.Main.Prograssbar.resources
+E:\Data\Som Cluster\som cluster\bin\Debug\som cluster.exe.config
+E:\Data\Som Cluster\som cluster\bin\Debug\som cluster.exe
+E:\Data\Som Cluster\som cluster\bin\Debug\som cluster.pdb
+E:\Data\Som Cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+E:\Data\Som Cluster\som cluster\obj\Debug\som cluster.csproj.ResolveComReference.cache
+E:\Data\Som Cluster\som cluster\obj\Debug\som_cluster.Main.ImageSegmentation.resources
+E:\Data\Som Cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+E:\Data\Som Cluster\som cluster\obj\Debug\som_cluster.Main.Tree.resources
+E:\Data\Som Cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+E:\Data\Som Cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+E:\Data\Som Cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+E:\Data\Som Cluster\som cluster\obj\Debug\som cluster.exe
+E:\Data\Som Cluster\som cluster\obj\Debug\som cluster.pdb
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.exe.config
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.exe
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.pdb
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.ResolveComReference.cache
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Main.ImageSegmentation.resources
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Main.Tree.resources
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.exe
+E:\Data\2019 9월 23일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.pdb
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.exe.config
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.exe
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.pdb
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.ResolveComReference.cache
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Main.ImageSegmentation.resources
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Main.Tree.resources
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.exe
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.pdb
+E:\Data\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Main.StatisticalAnalysis.resources
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.exe.config
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.exe
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\bin\Debug\som cluster.pdb
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.ResolveComReference.cache
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.exe
+E:\Data\2019 11월 20일 논문 프로그램 [디비가 안되면 내부코드로 변환]\2019 10월 21일 논문 프로그램\Som Cluster\som cluster\obj\Debug\som cluster.pdb
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\bin\Debug\som cluster.exe.config
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\bin\Debug\som cluster.exe
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\bin\Debug\som cluster.pdb
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som cluster.csproj.ResolveComReference.cache
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som cluster.exe
+C:\Users\Kong\Desktop\Fuzzy SOM\Som Cluster\som cluster\obj\Debug\som cluster.pdb

@@ -1,0 +1,22 @@
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\bin\Debug\som cluster.exe.config
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\bin\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\bin\Debug\som cluster.pdb
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som cluster.pdb
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+C:\Users\KYJ\Desktop\WorkSpace\som cluster\som cluster\obj\Debug\som_cluster.Main.Lookup.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\bin\Debug\som cluster.exe.config
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\bin\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\bin\Debug\som cluster.pdb
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.csprojAssemblyReference.cache
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som_cluster.Form1.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som_cluster.Main.Lookup.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som_cluster.Properties.Resources.resources
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.csproj.GenerateResource.cache
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.csproj.CoreCompileInputs.cache
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.exe
+C:\Users\KYJ\Desktop\Git Hub\Som Cluster\som cluster\som cluster\obj\Debug\som cluster.pdb
